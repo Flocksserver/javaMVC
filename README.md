@@ -5,9 +5,10 @@ Quellcode meines Videos zum Darstellen des einfachen MVC-Patterns in Java. Schau
 
 https://www.youtube.com/watch?v=96dUANo_adE
 
-LICENCE
+Lizenz
 =======
-Copyright (C) <2014> <Marcel Kaufmann>
+Copyright (C) 2014 Marcel Kaufmann
+
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
