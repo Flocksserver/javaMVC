@@ -1,4 +1,4 @@
-javaMVC - Model View Controller Pattern in Java
+Model View Controller Pattern in Java
 =======
 
 Quellcode meines Videos zum Darstellen des einfachen MVC-Patterns in Java. Schaut euch gern das dazugehöhrige Video auf Youtube an:
